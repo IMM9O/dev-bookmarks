@@ -1,6 +1,6 @@
 # My Bookmarks 🔗
 
-[![Check links](https://github.com/imm9o/my-bookmark/actions/workflows/links.yml/badge.svg)](https://github.com/imm9o/my-bookmark/actions/workflows/links.yml)
+[![Check links](https://github.com/imm9o/dev-bookmarks/actions/workflows/links.yml/badge.svg)](https://github.com/imm9o/dev-bookmarks/actions/workflows/links.yml)
 
 I collect these links while I learn and work as a web developer. Each page groups the links by topic. I add new links when I find them, and a weekly check finds links that stopped working.
 
