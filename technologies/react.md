@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png"  alt="react logo">
+  <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/500px-React-icon.svg.png"  alt="react logo">
 </p>
 
 ## Resources

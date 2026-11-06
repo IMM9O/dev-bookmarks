@@ -110,7 +110,6 @@ A readme file to keep all useful tools for web developments.
 ### SEO
 
 - [Meta Tags](https://metatags.io/)
-- [What runs](https://whatruns.com/)
 
 ### CDNs
 
