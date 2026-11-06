@@ -49,7 +49,6 @@ A readme file to keep all useful tools for web developments.
 
 - [Leetcode](https://leetcode.com/)
 - [100 Days CSS Challenge](https://100dayscss.com/)
-- [Code well](https://www.codewell.cc/)
 - [Daily UI](https://www.dailyui.co/)
 - [Frontend mentor](https://www.frontendmentor.io/)
 
@@ -86,7 +85,6 @@ A readme file to keep all useful tools for web developments.
 
 ### CSS Tools
 
-- [Glassmorphism CSS Generator](https://ui.glass/generator/#)
 - [Responsively](https://responsively.app/)
 - [FANCY-BORDER-RADIUS](https://9elements.github.io/fancy-border-radius/)
 - [CSS to javascript](https://css2js.dotenv.dev/)
@@ -96,10 +94,8 @@ A readme file to keep all useful tools for web developments.
 
 - [All The Free Stock](https://allthefreestock.com/) - Get all the Free Stock Images 📷, Videos 📹, Music 🎼 and Icons in one location.
 - [Story set](https://storyset.com/)
-- [Draw kit](https://drawkit.io)
-- [unDraw](https://undraw.com/illustrations)
+- [unDraw](https://undraw.co/illustrations)
 - [smash illustrations](https://usesmash.com/)
-- [stubborn generator](https://stubborn.fun/)
 - [BGJAR](https://bgjar.com)
 - [Blush](https://blush.design/)
 
