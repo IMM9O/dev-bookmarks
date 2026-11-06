@@ -63,7 +63,6 @@ A readme file to keep all useful tools for web developments.
 ### Hub Tools
 
 - [Free for dev](https://free-for.dev/#/)
-- [Dev Tools](https://smalldev.tools/)
 - [Hidden Tools](https://hiddentools-8tesl3293-bereket.vercel.app/)
 
 ### Inspiration
@@ -107,7 +106,6 @@ A readme file to keep all useful tools for web developments.
 ### APIs
 
 - [Rapid API](https://rapidapi.com/) - A hub for many APIs.
-- [Unsplash API](https://source.unsplash.com/)
 
 ### SEO
 

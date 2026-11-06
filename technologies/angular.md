@@ -40,7 +40,6 @@
   - [Angular Authentication: Using Route Guards](https://ryanchenkie.com/angular-authentication-using-route-guards)
   - [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
   - [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
-  - [Integrating Google Analytics With Angular 2+](https://scotch.io/tutorials/integrating-google-analytics-with-angular-2)
 
 - Architecture & Performance
 
@@ -49,8 +48,6 @@
   - [3 Tips for Angular Runtime Performance from the Real World](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
   - [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist)
   - [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
-  - [The Last Guide For Angular Change Detection You'll Ever Need](https://indepth.dev/posts/1305/the-last-guide-for-angular-change-detection-youll-ever-need)
-  - [These 5 articles will make you an Angular Change Detection expert](https://indepth.dev/posts/1137/these-5-articles-will-make-you-an-angular-change-detection-expert)
 
   - [Angular Practice Exercises](https://jcoop.io/angular-practice-exercises/)
 
@@ -66,14 +63,9 @@
   - [Short TypeScript Import Paths in Angular9](https://blog.bitsrc.io/short-typescript-import-paths-in-angular9-22ce34bd424d)
   - [Angular - Shortcut to Importing Styles Files in Components](https://scotch.io/tutorials/angular-shortcut-to-importing-styles-files-in-components)
 
-- Deploying & CI/CD
-
-  - [Deploying an Angular CLI App to Production with Firebase](https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase)
-
 ## Courses
 
 - [Learn Angular](https://scrimba.com/g/gyourfirstangularapp)
-- [Get Started with Angular](https://egghead.io/courses/get-started-with-angular)
 - [Angular From Theory to Practice](https://codecraft.tv/courses/angular/quickstart/overview/)
 - 💲 [Angular - The Complete Guide (2020 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 - 💲 [The Modern Angular Bootcamp [2020]](https://www.udemy.com/course/the-modern-angular-bootcamp/)

@@ -18,7 +18,6 @@
     - [Learn react](https://www.kirupa.com/react/index.htm) - Article series by Kirupa
     - [React](https://css-tricks.com/guides/react/) - Article Series by css-Tricks
     - [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
-    - [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
     - [React’s Five Fingers of Death. Master these five concepts, then master React.](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
     - [8 Key React Component Decisions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
     - [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
@@ -32,7 +31,6 @@
     > Covering topics like change detection(reconciliation), code splitting & Lazy load, PWA, SSR and SSG
 
     - [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
-    - [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://indepth.dev/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react/)
     - [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
 
   - Static analytics
