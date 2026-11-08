@@ -17,6 +17,7 @@ A readme file to keep all useful tools for web developments.
 - [Firebase Studio](https://firebase.studio/)
 - [Lovable](https://lovable.dev/)
 - [Cursor](https://www.cursor.com/)
+- [agent-qa](https://vostride.com) - Natural-language web, Android and iOS QA with persistent memidex memory, validated self-improvement, and step/screenshot evidence. Early-stage; FSL-1.1-ALv2 competing-use restrictions; separate model/infrastructure costs.
 
 
 ### Checklists
